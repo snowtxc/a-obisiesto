@@ -1,0 +1,13 @@
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\bin\Debug\bisiesto_año.exe.config
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\bin\Debug\bisiesto_año.exe
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\bin\Debug\bisiesto_año.pdb
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\bin\Debug\bisiesto_año.xml
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.vbprojAssemblyReference.cache
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.Resources.resources
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.vbproj.GenerateResource.cache
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.vbproj.CoreCompileInputs.cache
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.exe
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.xml
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.pdb
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.Form1.resources
+C:\Users\snowi\source\repos\bisiesto_año\bisiesto_año\obj\Debug\bisiesto_año.Form2.resources
